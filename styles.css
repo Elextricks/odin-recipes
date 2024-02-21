@@ -1,0 +1,28 @@
+li {
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.one {
+    background-color: #7DAF9C ;
+}
+
+.two {
+    background-color: #F7BFB4;
+}
+
+.three {
+    background-color: #DB93B0;
+}
+
+ul, ol {
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
